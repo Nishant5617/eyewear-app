@@ -6,7 +6,8 @@ body {
 
 #app {
     position: relative;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
 }
 
 #video, #overlay {
